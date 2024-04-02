@@ -253,7 +253,7 @@ CREATE TABLE `review` (
 
 LOCK TABLES `review` WRITE;
 /*!40000 ALTER TABLE `review` DISABLE KEYS */;
-INSERT INTO `review` VALUES (1,'A',1,1,2020,'Saim',4,3,5,1,2,'wasd','dasd','2024-03-10 09:58:02','std01@st.sit.kmutt.ac.th',0,1);
+/* INSERT INTO `review` VALUES (1,'A',1,1,2020,'Saim',4,3,5,1,2,'wasd','dasd','2024-03-10 09:58:02','std01@st.sit.kmutt.ac.th',0,1);
 /*!40000 ALTER TABLE `review` ENABLE KEYS */;
 UNLOCK TABLES;
 
